@@ -19,7 +19,6 @@ public class Tugas_bab6 {
         
         System.out.println("\nLuas Permukaan: "+PP.getPerm());
         System.out.println("Volume: "+B.VolBalok());
-        System.ou.println("terimakasih muahhh");
     }
     
 }
